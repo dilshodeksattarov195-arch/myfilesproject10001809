@@ -1,0 +1,8 @@
+body { background: #a643e8; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 47px; display: flex; }
+.block-session-0 { color: #35a46c; font-size: 18px; margin-bottom: 5px; }
+.block-user-1 { color: #fa977e; font-size: 17px; margin-bottom: 5px; }
+.block-order-2 { color: #fe9b77; font-size: 13px; margin-bottom: 5px; }
+.block-validator-3 { color: #fbed89; font-size: 18px; margin-bottom: 5px; }
+.block-sms-4 { color: #2f35aa; font-size: 12px; margin-bottom: 5px; }
+.block-sms-5 { color: #69be60; font-size: 19px; margin-bottom: 5px; }
