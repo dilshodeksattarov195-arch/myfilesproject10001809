@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedender",
+        "uuid": 1358559,
+        "checksum": "l6yep"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
